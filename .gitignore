@@ -1,0 +1,19 @@
+# course files from the lecturer's Google Drive (not mine to share)
+cityscapes/
+trained_model/
+resunet_mtl_0/
+*.pth
+
+# datasets downloaded by the notebook
+CamVid/
+SegNet-Tutorial/
+comma10k/
+
+# created when the notebook runs
+outputs/
+.ipynb_checkpoints/
+__pycache__/
+
+# system files
+.DS_Store
+Thumbs.db
